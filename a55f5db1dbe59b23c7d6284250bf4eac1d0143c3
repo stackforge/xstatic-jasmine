@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: Matthias Runge <mrunge@redhat.com>
+Workflow+1: Matthias Runge <mrunge@redhat.com>
+Code-Review+2: Radomir Dopieralski <openstack@sheep.art.pl>
+Submitted-by: Jenkins
+Submitted-at: Tue, 25 Nov 2014 09:57:42 +0000
+Reviewed-on: https://review.openstack.org/136806
+Project: stackforge/xstatic-jasmine
+Branch: refs/heads/master
