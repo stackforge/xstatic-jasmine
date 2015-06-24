@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: David Lyle <dklyle0@gmail.com>
+Workflow+1: David Lyle <dklyle0@gmail.com>
+Code-Review+2: Rob Cresswell <rcresswe@cisco.com>
+Code-Review+1: Kelly Domico <kelly.domico@hp.com>
+Code-Review+1: Matt Borland <matt.borland@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 24 Jun 2015 14:00:02 +0000
+Reviewed-on: https://review.openstack.org/189481
+Project: stackforge/xstatic-jasmine
+Branch: refs/heads/master
