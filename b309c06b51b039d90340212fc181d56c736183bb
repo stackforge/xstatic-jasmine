@@ -1,0 +1,9 @@
+Verified+2: Jenkins
+Code-Review+2: David Lyle <dklyle0@gmail.com>
+Workflow+1: David Lyle <dklyle0@gmail.com>
+Code-Review+1: Tyr Johanson <tyr@hp.com>
+Submitted-by: Jenkins
+Submitted-at: Wed, 22 Jul 2015 21:01:09 +0000
+Reviewed-on: https://review.openstack.org/204283
+Project: stackforge/xstatic-jasmine
+Branch: refs/heads/master
