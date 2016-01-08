@@ -1,0 +1,9 @@
+Code-Review+2: Rob Cresswell <rcresswe@cisco.com>
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Workflow+1: Thai Tran <tqtran@us.ibm.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 08 Jan 2016 19:33:51 +0000
+Reviewed-on: https://review.openstack.org/264324
+Project: openstack/xstatic-jasmine
+Branch: refs/heads/master
