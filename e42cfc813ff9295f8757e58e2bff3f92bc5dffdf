@@ -1,0 +1,10 @@
+Code-Review+2: Richard Jones <r1chardj0n3s@gmail.com>
+Code-Review+1: Shu Muto <shu-mutou@rf.jp.nec.com>
+Code-Review+2: Rob Cresswell <robert.cresswell@outlook.com>
+Workflow+1: Rob Cresswell <robert.cresswell@outlook.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 06 Apr 2016 08:01:36 +0000
+Reviewed-on: https://review.openstack.org/264591
+Project: openstack/xstatic-jasmine
+Branch: refs/heads/master
