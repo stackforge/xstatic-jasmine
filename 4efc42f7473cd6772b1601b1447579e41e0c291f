@@ -1,0 +1,9 @@
+Code-Review+2: Thai Tran <tqtran@us.ibm.com>
+Code-Review+2: Richard Jones <r1chardj0n3s@gmail.com>
+Workflow+1: Richard Jones <r1chardj0n3s@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Wed, 20 Jul 2016 01:15:43 +0000
+Reviewed-on: https://review.openstack.org/344407
+Project: openstack/xstatic-jasmine
+Branch: refs/heads/master
