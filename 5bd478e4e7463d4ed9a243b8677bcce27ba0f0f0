@@ -1,0 +1,8 @@
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Akihiro Motoki <amotoki@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Mon, 11 Feb 2019 14:06:21 +0000
+Reviewed-on: https://review.openstack.org/636130
+Project: openstack/xstatic-jasmine
+Branch: refs/heads/master
